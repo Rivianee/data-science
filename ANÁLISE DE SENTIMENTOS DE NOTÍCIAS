@@ -172,7 +172,7 @@
         "nltk.download('vader_lexicon')\n",
         "\n",
         "# Configurar a chave de API da News API\n",
-        "newsapi = NewsApiClient(api_key='2bfc65ae3afe48c8a52734e5f843953c')\n",
+        "newsapi = NewsApiClient(api_key='SUA_CHAVE_DE_API')\n",
         "\n",
         "# Inicializar o SentimentIntensityAnalyzer\n",
         "sia = SentimentIntensityAnalyzer()\n",
